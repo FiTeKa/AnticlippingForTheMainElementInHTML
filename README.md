@@ -8,7 +8,7 @@ This Javascript ist helping if your header and/or footer in your html are set st
 
 #### How can I use it in my project?
 To use this Javascript file, the easiest way is to put this line of code into your html:
-`<script src='https://raw.githubusercontent.com/FiTeKa/AnticlippingForTheMainElementInHTML/main/heightscript.js'></script>`
+> <script src='https://raw.githubusercontent.com/FiTeKa/AnticlippingForTheMainElementInHTML/main/heightscript.js'></script>
 I recommend to put it into the header, but it should work if you're putting it anywhere else in the html file.
 
 Another way to user it, is to download the file with the Javascript you want and put it on your webserver. Next you need to put following line of code into your html anywhere you want. I recomend to put it into the head Element.
